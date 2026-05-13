@@ -1,0 +1,10 @@
+/.build
+/Sources 
+/coinswap_ffi.xcframework
+/.swiftpm
+/apps/ios/**/*.mbd
+/apps/macos/**/*.mbd
+/apps/ios/**/.swiftpm
+/apps/macos/**/.swiftpm
+/apps/ios/**/.build
+/apps/macos/**/.build
